@@ -2,7 +2,6 @@
   "name": "bowling",
   "version": "1.0.0",
   "description": "just the start of a tdd pp session",
-  "main": " ",
   "scripts": {
     "test": "jasmine-node spec/ --coffee"
   },
