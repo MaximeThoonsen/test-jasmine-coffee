@@ -21,4 +21,3 @@ describe 'array_hits', ->
     expect(array_hits()).toEqual(jasmine.any(Array))
     expect(array_hits().length).toEqual(10)
     expect(spy).toHaveBeenCalled()
-
